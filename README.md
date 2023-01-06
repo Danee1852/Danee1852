@@ -1,5 +1,5 @@
 ![Untitled2 0](https://user-images.githubusercontent.com/53838634/171231217-6658fa0b-5328-474f-b745-7a403cd5e582.png)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](linkedin.com/in/paweł-pękala)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pawe%C5%82-p%C4%99kala/)
 ### Good to see You here! 👋
 
 </br>
