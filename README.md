@@ -4,7 +4,7 @@
 
 
 </br>
-I am Paweł, an urban planning engineer from Poland. I am a Java fan and I would like to take my first steps in the IT. I am enthusiastic about developing my existing skills and expanding my knowledge in this field. I am currently working on a Job advertisements web application.
+I am Paweł, an urban planning engineer from Poland. I am a Java fan and I would like to develop myself in the IT. I am enthusiastic about developing my existing skills and expanding my knowledge on new topics. I am currently working on a Job advertisements web application.
 
 
 #### :wrench: Technologies/frameworks with which I worked:
